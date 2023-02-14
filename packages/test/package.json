@@ -17,10 +17,14 @@
     "type": "git",
     "url": "git+ssh://git@github.com/chenjixue/low_code_cli.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "node ./__tests__/test.test.js"
   },
   "bugs": {
     "url": "https://github.com/chenjixue/low_code_cli/issues"
-  }
+  },
+  "gitHead": "4805658e93678cc24d22cd4913d71c992d9cfa69"
 }
