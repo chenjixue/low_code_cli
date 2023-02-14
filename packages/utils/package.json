@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/chenjixue/low_code_cli/issues"
   },
-  "gitHead": "283a0a08206f92670dcff082718e9fa5ea8839aa"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "eeb20eeba7d8ca6204f77f0ca995a8176eb307a0"
 }
