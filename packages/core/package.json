@@ -1,0 +1,19 @@
+{
+  "name": "@low_code_cli/core",
+  "version": "1.2.1",
+  "description": "> TODO: description",
+  "author": "陈吉学 <736538448@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  }
+}
